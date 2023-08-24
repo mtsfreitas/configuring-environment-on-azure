@@ -1,6 +1,10 @@
 # configuring-environment-on-azure
 
 # Configurando o Ambiente
+O propósito deste projeto é aprofundar o conhecimento em plataformas relevantes para análise e processamento de dados. Para alcançar esse objetivo,
+será configurada uma instância de máquina virtual na Azure, na qual serão instaladas as dependências requeridas para participar de competições de
+aprendizado de máquina.
+
 ## Criando a máquina virtual
 
 Utilizando a plataforma Azure para criar a máquina virtual: https://portal.azure.com/#home
