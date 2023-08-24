@@ -95,7 +95,5 @@ Agora, para acessar o Jupyter Notebook, basta digitar no navegador a seguinte UR
 
 Se necessário, insira o token gerado para obter acesso ao Jupyter. Por exemplo: http://localhost:8888/? token=1036cd4eb4546860f131cfb8a01c21423489643ae56efebd 
 
-Após acessar o Jupyter Notebook, você poderá criar um novo arquivo .ipynb e fazer upload de arquivos. Neste exemplo, foi criado o arquivo SpaceshipTitanic_TP1.ipynb e realizada a importação dos arquivos .csv de treinamento e teste, disponíveis em:
-
-https://www.kaggle.com/competitions/spaceship-titanic/data.
+Após acessar o Jupyter Notebook, você poderá criar um novo arquivo .ipynb e fazer upload de arquivos. 
 
